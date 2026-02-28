@@ -60,9 +60,7 @@ Categorize high expense areas
 
 Python 3.x
 
-📦 Installation
-# Clone the repository
-git clone https://github.com/yourusername/smart-data-analyzer.git
+
 
 # Navigate to project folder
 cd smart-data-analyzer
