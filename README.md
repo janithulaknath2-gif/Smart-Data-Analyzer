@@ -1,32 +1,94 @@
-🌟 Smart Data Analyzer
-<p align="center"> <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"> </p> <p align="center"> 📊 Smart Data Analyzer is a Python-based console application for analyzing student marks, sales data, and expenses using statistical insights and structured data processing. </p>
-🚀 Project Preview
-🎓 Student Mark Analyzer
-📈 Sales Data Analyzer
-💰 Expense Analyzer
-📤 Statistical Reports & Insights
+📊 Smart Data Analyzer
+
+🚀 Project Overview
+Smart Data Analyzer is a Python-based console application that helps users analyze different types of data using simple menu-driven options.
+
+This project includes:
+  Student Mark Analysis 🎓
+  Sales Data Analysis 📈
+  Expense Analysis 💰
+
+It demonstrates practical usage of:
+ Dictionaries
+ Loops
+ Functions
+ Data validation
+ Data analysis logic
+
 🧠 Features
-🎓 Student Mark Analyzer
 
-✅ Add multiple students
-✅ Calculate average marks
-✅ Identify top student
-✅ Grade classification
-✅ Pass / Fail statistics
+🎓 Student Mark Analyzer
+ Calculate average marks
+ Identify top student
+ Generate grades (A, B, F)
+ Show pass/fail statistics
+ Display student performance report
 
 📈 Sales Data Analyzer
-
-✅ Monthly sales input
-✅ Yearly total sales
-✅ Best & lowest month detection
-✅ Sales category classification
+ Calculate yearly sales total
+ Calculate average monthly sales
+ Identify best and worst sales months
+ Categorize sales performance
 
 💰 Expense Analyzer
+ Calculate total expenses
+ Identify highest expense category
+ Show expense percentage breakdown
+ Categorize high expense areas
 
-✅ Multiple expense categories
-✅ Total expense calculation
-✅ Percentage distribution analysis
-✅ High expense detection
+🛠 Technologies Used
+Python 3.x
 
-🛠 Tech Stack
-<p> <img src="https://img.shields.io/badge/Python-100%25-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/Data%20Structures-Dictionary%20%7C%20List-yellow?style=for-the-badge"> </p>
+📦 Installation
+# Clone the repository
+git clone https://github.com/yourusername/smart-data-analyzer.git
+
+# Navigate to project folder
+cd smart-data-analyzer
+
+# Run program
+python main.py
+▶️ Usage
+
+Run the program and choose options from the menu:
+
+Welcome to Smart Data Analyzer
+
+1. Student Mark Analyzer
+2. Sales Data Analyzer
+3. Expense Analyzer
+4. Quit
+
+Enter the number corresponding to the service you want.
+
+🧾 Project Structure
+Smart-Data-Analyzer/
+│
+├── main.py
+├── README.md
+└── assets/
+📌 Code Highlights
+
+Input validation
+
+Data aggregation
+
+Performance analysis
+
+Interactive CLI interface
+
+🌟 Future Improvements
+
+Add GUI interface (Tkinter / Web app)
+Add database storage
+Add machine learning predictions
+Export reports as PDF/Excel
+
+👨‍💻 Author
+
+Janithu Laknath
+GitHub: https://github.com/janithulaknath2-gif
+
+⭐ If you like this project
+
+Give a ⭐ on GitHub!
