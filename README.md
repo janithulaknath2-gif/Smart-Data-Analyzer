@@ -1,50 +1,32 @@
-📊 Smart Data Analyzer
-🚀 Project Overview
+🌟 Smart Data Analyzer
+<p align="center"> <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge"> </p> <p align="center"> 📊 Smart Data Analyzer is a Python-based console application for analyzing student marks, sales data, and expenses using statistical insights and structured data processing. </p>
+🚀 Project Preview
+🎓 Student Mark Analyzer
+📈 Sales Data Analyzer
+💰 Expense Analyzer
+📤 Statistical Reports & Insights
+🧠 Features
+🎓 Student Mark Analyzer
 
-Smart Data Analyzer is a Python-based console application that performs data analysis on:
+✅ Add multiple students
+✅ Calculate average marks
+✅ Identify top student
+✅ Grade classification
+✅ Pass / Fail statistics
 
-Student Marks Analysis
+📈 Sales Data Analyzer
 
-Sales Data Analysis
+✅ Monthly sales input
+✅ Yearly total sales
+✅ Best & lowest month detection
+✅ Sales category classification
 
-Expense Analysis
+💰 Expense Analyzer
 
-The project demonstrates fundamental data science logic using Python data structures, loops, and functions.
+✅ Multiple expense categories
+✅ Total expense calculation
+✅ Percentage distribution analysis
+✅ High expense detection
 
-✨ Features
-
-✅ Student Marks Analyzer
-
-Calculates average marks
-
-Finds top student
-
-Shows pass/fail statistics
-
-Generates grade report
-
-✅ Sales Data Analyzer
-
-Yearly sales calculation
-
-Monthly average sales
-
-Best and lowest sales month
-
-Sales category classification
-
-✅ Expense Analyzer
-
-Total expense calculation
-
-Category-wise expense analysis
-
-Percentage contribution of expenses
-
-🛠 Technologies Used
-
-Python 3.x
-
-Python Built-in Data Structures
-
-Console-Based User Interface
+🛠 Tech Stack
+<p> <img src="https://img.shields.io/badge/Python-100%25-blue?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/Data%20Structures-Dictionary%20%7C%20List-yellow?style=for-the-badge"> </p>
