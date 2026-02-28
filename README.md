@@ -1,42 +1,63 @@
 📊 Smart Data Analyzer
-
 🚀 Project Overview
+
 Smart Data Analyzer is a Python-based console application that helps users analyze different types of data using simple menu-driven options.
 
 This project includes:
-  Student Mark Analysis 🎓
-  Sales Data Analysis 📈
-  Expense Analysis 💰
+
+Student Mark Analysis 🎓
+
+Sales Data Analysis 📈
+
+Expense Analysis 💰
 
 It demonstrates practical usage of:
- Dictionaries
- Loops
- Functions
- Data validation
- Data analysis logic
+
+Dictionaries
+
+Loops
+
+Functions
+
+Data validation
+
+Data analysis logic
 
 🧠 Features
-
 🎓 Student Mark Analyzer
- Calculate average marks
- Identify top student
- Generate grades (A, B, F)
- Show pass/fail statistics
- Display student performance report
+
+Calculate average marks
+
+Identify top student
+
+Generate grades (A, B, F)
+
+Show pass/fail statistics
+
+Display student performance report
 
 📈 Sales Data Analyzer
- Calculate yearly sales total
- Calculate average monthly sales
- Identify best and worst sales months
- Categorize sales performance
+
+Calculate yearly sales total
+
+Calculate average monthly sales
+
+Identify best and worst sales months
+
+Categorize sales performance
 
 💰 Expense Analyzer
- Calculate total expenses
- Identify highest expense category
- Show expense percentage breakdown
- Categorize high expense areas
+
+Calculate total expenses
+
+Identify highest expense category
+
+Show expense percentage breakdown
+
+Categorize high expense areas
 
 🛠 Technologies Used
+
 Python 3.x
 
 📦 Installation
@@ -80,8 +101,11 @@ Interactive CLI interface
 🌟 Future Improvements
 
 Add GUI interface (Tkinter / Web app)
+
 Add database storage
+
 Add machine learning predictions
+
 Export reports as PDF/Excel
 
 👨‍💻 Author
